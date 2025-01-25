@@ -1,0 +1,43 @@
+																																	
+			1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26					
+			A#3	B#2	C#3	D#3	E#3	F#5	G#3	H#4	I#3	J#5	K#5	L#7	M#5	N#5	O#5	P#5	Q#4	R#4	S#5	T#3	U#5	V#2	W#7	X#1	Y#6	Z#6		#sense	#sense tags	#space	#space tags
+																																	
+	#		_procedure_	_decide_	_initiate_	_create_	_process_	_execute_	_switch_	_verify_	_feature_	_seize_	_mandatory_	_extra_	_device_	_system_	_use_	_office_	_relate_	_make_	_wave_	_interest_	_band_	_reason_	_slim_	_bit_	_whole_	_group_		572	{2, 4, 11, 13, 22, 26, 44, 52, 143, 286}	151	{}
+	#sense		35	18	26	19	30	21	25	23	26	20	37	14	17	27	13	24	23	16	15	29	13	25	20	8	26	22		572	{2, 4, 11, 13, 22, 26, 44, 52, 143, 286}	151	{}
+	#sense tags		{5, 7}	{2, 3, 6, 9}	{2, 13}	{}	{2, 3, 5, 6, 10, 15}	{3, 7}	{5}	{}	{2, 13}	{2, 4, 5, 10}	{}	{2, 7}	{}	{3, 9}	{}	{2, 3, 4, 6, 8, 12}	{}	{2, 4, 8}	{3, 5}	{}	{}	{5}	{2, 4, 5, 10}	{2, 4}	{2, 13}	{2, 11}		22		5.807692307692308	
+	#space		9	6	8	6	7	7	6	6	7	5	9	5	6	6	3	6	6	4	4	8	4	6	4	3	5	5					
+	#space tags		{3}	{2, 3}	{2, 4}	{2, 3}	{}	{}	{2, 3}	{2, 3}	{}	{}	{3}	{}	{2, 3}	{2, 3}	{}	{2, 3}	{2, 3}	{2}	{2}	{2, 4}	{2}	{2, 3}	{2}	{}	{}	{}					
+																																	
+	A#3		_bean	_disk	_shade	_produce	_pass	_pot	_parse	_plus	_agile	_break	_hit	_room	_sack	_lease	_eject	_check	_share	_mask	_swipe	_right	_crowd	_nine	_skin	_degree	_block	_unique		484	{2, 4, 11, 22, 44, 121, 242}	121	{11}
+	1		profile	link	dial	play	art	twist	direct	puzzle	language	tile	counter	gender	mark	bubble	label	test	screen	item	grant	limit	arc	load	issue	age	standard	cover		522	{2, 3, 6, 9, 18, 29, 58, 87, 174, 261}	131	{}
+	2		stone	flag	ideal	case	shell	effect	queue	pseudo	universe	search	match	application	border	layer	compose	project	mosaic	view	peer	dock	save	argument	note	the	feature	shelf		574	{2, 7, 14, 41, 82, 287}	144	{2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72}
+	3		track	scale	about	serve	order	method	stack	mean	transform	power	graph	statistic	lap	scope	chat	guess	capital	plant	session	tone	routine	repeat	frame	common	work	plain		572	{2, 4, 11, 13, 22, 26, 44, 52, 143, 286}	141	{3, 47}
+	4		body	sign	rank	thing	zip	index	currency	equip	document	seal	material	before	term	weight	logic	line	utility	set	drive	command	trade	introduction	sector	craft	syllable	focus		581	{7, 83}	146	{2, 73}
+	5		head	prompt	attach	address	space	slot	mod	shuffle	statement	brush	cascade	after	face	ratio	flow	complex	compress	fit	status	alignment	late	symbol	cross	at	tenure	comment		583	{11, 53}	144	{2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72}
+	6		bell	basic	sample	flat	style	gear	unit	node	transition	copy	circle	launch	wire	mesh	robot	avatar	banner	board	weather	via	fix	report	party	member	optional	category		545	{5, 109}	138	{2, 3, 6, 23, 46, 69}
+	7		till	ball	account	instant	elect	tip	key	tariff	mixture	text	mail	synopsis	radio	core	matter	click	aerial	urgent	control	transparent	table	seminar	mount	is	chamber	record		570	{2, 3, 5, 6, 10, 15, 19, 30, 38, 57, 95, 114, 190, 285}	144	{2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72}
+	8		call	crate	hip	candle	act	afloat	shift	deal	booklet	number	script	compile	pattern	simple	bullet	content	fetch	domain	form	query	calendar	asterisk	action	from	design	spell		594	{2, 3, 6, 9, 11, 18, 22, 27, 33, 54, 66, 99, 198, 297}	145	{5, 29}
+	9		rill	hand	margin	post	tag	crop	push	bunch	thesis	character	filter	community	sink	up	lens	correct	charge	quantity	mobile	highlight	finance	import	trace	where	paragraph	backward		596	{2, 4, 149, 298}	150	{2, 3, 5, 6, 10, 15, 25, 30, 50, 75}
+	10		child	wheel	verse	pin	more	chip	pull	map	blog	agent	register	machine	paste	down	cell	certificates	change	word	exercise	assistance	section	export	fence	choice	super	forward		575	{5, 23, 25, 115}	146	{2, 73}
+	11		parent	cap	crack	first	series	pool	flex	cabinet	parameter	brand	size	syntax	side	volume	large	manual	clone	transfer	pay	alternate	grade	quick	identity	quest	metric	discover		571	{}	147	{3, 7, 21, 49}
+	#sense		223	203	214	216	189	205	213	237	332	217	253	323	194	223	238	270	266	221	245	298	211	296	232	182	298	284		6283	{61, 103}	1576	{2, 4, 8, 197, 394, 788}
+	#sense tags		{}	{7, 29}	{2, 107}	{2, 3, 4, 6, 8, 9, 12, 18, 24, 27, 36, 54, 72, 108}	{3, 7, 9, 21, 27, 63}	{5, 41}	{3, 71}	{3, 79}	{2, 4, 83, 166}	{7, 31}	{11, 23}	{17, 19}	{2, 97}	{}	{2, 7, 14, 17, 34, 119}	{2, 3, 5, 6, 9, 10, 15, 18, 27, 30, 45, 54, 90, 135}	{2, 7, 14, 19, 38, 133}	{13, 17}	{5, 7, 35, 49}	{2, 149}	{}	{2, 4, 8, 37, 74, 148}	{2, 4, 8, 29, 58, 116}	{2, 7, 13, 14, 26, 91}	{2, 149}	{2, 4, 71, 142}		241.6538461538462		60.61538461538462	
+	#space		52	49	56	54	47	51	51	57	85	57	66	80	50	53	55	70	68	56	62	76	58	74	59	47	74	69					
+	#space tags		{2, 4, 13, 26}	{7}	{2, 4, 7, 8, 14, 28}	{2, 3, 6, 9, 18, 27}	{}	{3, 17}	{3, 17}	{3, 19}	{5, 17}	{3, 19}	{2, 3, 6, 11, 22, 33}	{2, 4, 5, 8, 10, 16, 20, 40}	{2, 5, 10, 25}	{}	{5, 11}	{2, 5, 7, 10, 14, 35}	{2, 4, 17, 34}	{2, 4, 7, 8, 14, 28}	{2, 31}	{2, 4, 19, 38}	{2, 29}	{2, 37}	{}	{}	{2, 37}	{3, 23}					
+																																	
+	B#2		_deep	_box	_for	_medium	_liquid	_start	_orbit	_course	_guest	_sound	_point	_origin	_entry	_invest	_while	_exit	_log	_type	_task	_data	_stop	_opposite	_similar	_print	_clip	_format		512	{2, 4, 8, 16, 32, 64, 128, 256}	128	{2, 4, 8, 16, 32, 64}
+	1		step	safe	ring	spark	mass	base	port	open	tree	pipe	actor	pulse	poll	channel	span																
+	2		hook	cost	figure	bright	loop	phase	straight	root	bag	frequency	schedule	future	trial	bracket	thick																
+	3		learn	pack	roof	cone	directory	oval	write	drop	structure	metal	program	stream	loose	sync	combine																
+	4		gain	part	slate	stand	bar	carry	read	tube	mono	belt	over	place	connect	ready	arrow																
+	5		move	quote	gap	back	leap	per	clause	book	code	plug	market	on	say	lay	dot																
+	6		fill	bill	file	square	shrink	scheme	dash	watch	access	area	average	off	other	pitch	font																
+	7		mix	meet	energy	double	unity	joint	calculate	trip	compound	toll	chain	appendix	axis	speed	freeze																
+	8		race	name	hash	bind	card	compare	memory	clock	tune	drag	tick	cable	clue	now	angle																
+	#sense		130	132	147	151	162	154	184	140	164	158	170	165	159	161	159																
+	#sense tags		{2, 5, 10, 13, 26, 65}	{2, 3, 4, 6, 11, 12, 22, 33, 44, 66}	{3, 7, 21, 49}	{}	{2, 3, 6, 9, 18, 27, 54, 81}	{2, 7, 11, 14, 22, 77}	{2, 4, 8, 23, 46, 92}	{2, 4, 5, 7, 10, 14, 20, 28, 35, 70}	{2, 4, 41, 82}	{2, 79}	{2, 5, 10, 17, 34, 85}	{3, 5, 11, 15, 33, 55}	{3, 53}	{7, 23}	{3, 53}																
+	#space		32	33	36	40	39	39	46	34	42	38	46	40	37	39	39																
+	#space tags		{2, 4, 8, 16}	{3, 11}	{2, 3, 4, 6, 9, 12, 18}	{2, 4, 5, 8, 10, 20}	{3, 13}	{3, 13}	{2, 23}	{2, 17}	{2, 3, 6, 7, 14, 21}	{2, 19}	{2, 23}	{2, 4, 5, 8, 10, 20}	{}	{3, 13}	{3, 13}																
+																																	
+			1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26					
+			A#3	B#2	C#3	D#3	E#3	F#5	G#3	H#4	I#3	J#5	K#5	L#7	M#5	N#5	O#5	P#5	Q#4	R#4	S#5	T#3	U#5	V#2	W#7	X#1	Y#6	Z#6		#sense	#sense tags	#space	#space tags
