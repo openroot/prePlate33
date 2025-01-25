@@ -16,11 +16,11 @@ child	wheel	verse	pin	more	chip	pull	map	blog	agent	register	machine	paste	down	
 parent	cap	crack	first	series	pool	flex	cabinet	parameter	brand	size	syntax	side	volume	large	manual	clone	transfer	pay	alternate	grade	quick	identity	quest	metric	discover
 
 _deep	_box	_for	_medium	_liquid	_start	_orbit	_course	_guest	_sound	_point	_origin	_entry	_invest	_while	_exit	_log	_type	_task	_data	_stop	_opposite	_similar	_print	_clip	_format
-step	safe	ring	spark	mass	base	port	open	tree	pipe	actor	pulse	poll	channel	span
-hook	cost	figure	bright	loop	phase	straight	root	bag	frequency	schedule	future	trial	bracket	thick
-learn	pack	roof	cone	directory	oval	write	drop	structure	metal	program	stream	loose	sync	combine
-gain	part	slate	stand	bar	carry	read	tube	mono	belt	over	place	connect	ready	arrow
-move	quote	gap	back	leap	per	clause	book	code	plug	market	on	say	lay	dot
-fill	bill	file	square	shrink	scheme	dash	watch	access	area	average	off	other	pitch	font
-mix	meet	energy	double	unity	joint	calculate	trip	compound	toll	chain	appendix	axis	speed	freeze
-race	name	hash	bind	card	compare	memory	clock	tune	drag	tick	cable	clue	now	angle
+step	safe	ring	spark	mass	base	port	open	tree	pipe	actor	pulse	poll	channel	span	raw	
+hook	cost	figure	bright	loop	phase	straight	root	bag	frequency	schedule	future	trial	bracket	thick	level	
+learn	pack	roof	cone	directory	oval	write	drop	structure	metal	program	stream	loose	sync	combine	edit	
+gain	part	slate	stand	bar	carry	read	tube	mono	belt	over	place	connect	ready	arrow	sheet	
+move	quote	gap	back	leap	per	clause	book	code	plug	market	on	say	lay	dot	contrast	
+fill	bill	file	square	shrink	scheme	dash	watch	access	area	average	off	other	pitch	font	caution	
+mix	meet	energy	double	unity	joint	calculate	trip	compound	toll	chain	appendix	axis	speed	freeze	touch	
+race	name	hash	bind	card	compare	memory	clock	tune	drag	tick	cable	clue	now	angle	smart	
