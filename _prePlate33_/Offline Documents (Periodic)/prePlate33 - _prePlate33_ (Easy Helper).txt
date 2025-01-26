@@ -94,7 +94,7 @@
  - _period         : Filter            // 4    - 
  - _random         : Power             // 5    - 
  - _serial         : Distribute        // 6    - 
- - _try            :                   // 7    - 
+ - _try            : Record            // 7    - 
  - _tool           :                   // 8    - 
  - _micro          :                   // 9    - 
  - _catch          :                   // 10   - 
