@@ -83,6 +83,35 @@
  - _opposite       : Server            // 22   - 
  - _similar        : Network           // 23   - 
  - _print          : Engine            // 24   - 
- - _clip           : Share             // 25   - 
+ - _clip           : Paper             // 25   - 
  - _format         : Heading           // 26   - 
+-------------------------------------------------
+ - _initiate_      : Torrent           // C#3  - 
+-------------------------------------------------
+ - _new            : Relay             // 1    - 
+ - _source         : Compute           // 2    - 
+ - _full           : Analogue          // 3    - 
+ - _period         :                   // 4    - 
+ - _random         :                   // 5    - 
+ - _serial         :                   // 6    - 
+ - _try            :                   // 7    - 
+ - _tool           :                   // 8    - 
+ - _micro          :                   // 9    - 
+ - _catch          :                   // 10   - 
+ - _next           :                   // 11   - 
+ - _this           :                   // 12   - 
+ - _else           :                   // 13   - 
+ - _either         :                   // 14   - 
+ - _equal          :                   // 15   - 
+ - _previous       :                   // 16   - 
+ - _continue       :                   // 17   - 
+ - _adapt          :                   // 18   - 
+ - _sequence       :                   // 19   - 
+ - _main           :                   // 20   - 
+ - _void           :                   // 21   - 
+ - _sort           :                   // 22   - 
+ - _count          :                   // 23   - 
+ - _length         : Link              // 24   - 
+ - _trim           : Transform         // 25   - 
+ - _let            : Gross             // 26   - 
 -------------------------------------------------
