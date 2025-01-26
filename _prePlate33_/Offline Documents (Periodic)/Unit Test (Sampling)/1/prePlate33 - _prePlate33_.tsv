@@ -1,0 +1,19 @@
+																															
+		A#3	B#2	C#3	D#3	E#3	F#5	G#3	H#4	I#3	J#5	K#5	L#7	M#5	N#5	O#5	P#5	Q#4	R#4	S#5	T#3	U#5	V#2	W#7	X#1	Y#6	Z#6	#sense	#sense tags	#space	#space tags
+	#	_procedure_	_decide_	_initiate_	_create_	_process_	_execute_	_switch_	_verify_	_feature_	_seize_	_mandatory_	_extra_	_device_	_system_	_use_	_office_	_relate_	_make_	_wave_	_interest_	_band_	_reason_	_slim_	_bit_	_whole_	_group_	572	{2, 4, 11, 13, 22, 26, 44, 52, 143, 286}	151	{}
+	A#3	_bean	_disk	_shade	_produce	_pass	_pot	_parse	_plus	_agile	_break	_hit	_room	_sack	_lease	_eject	_check	_share	_mask	_swipe	_right	_crowd	_nine	_skin	_degree	_block	_unique	484	{2, 4, 11, 22, 44, 121, 242}	121	{11}
+	1	profile	link	dial	play	art	twist	direct	puzzle	language	tile	counter	gender	mark	bubble	label	test														
+	2	stone	flag	ideal	case	shell	effect	queue	pseudo	universe	search	match	application	border	layer	compose	project														
+	3	track	scale	about	serve	order	method	stack	mean	transform	power	graph	statistic	lap	scope	chat	guess														
+	4	body	sign	rank	thing	zip	index	currency	equip	document	seal	material	before	term	weight	logic	line														
+	5	head	prompt	attach	address	space	slot	mod	shuffle	statement	brush	cascade	after	face	ratio	flow	complex														
+	6	bell	basic	sample	flat	style	gear	unit	node	transition	copy	circle	launch	wire	mesh	robot	avatar														
+	7	till	ball	account	instant	elect	tip	key	tariff	mixture	text	mail	synopsis	radio	core	matter	click														
+	8	call	crate	hip	candle	act	afloat	shift	deal	booklet	number	script	compile	pattern	simple	bullet	content														
+	9	rill	hand	margin	post	tag	crop	push	bunch	thesis	character	filter	community	sink	up	lens	correct														
+	10	child	wheel	verse	pin	more	chip	pull	map	blog	agent	register	machine	paste	down	cell	wrapper														
+	11	parent	cap	crack	first	series	pool	flex	cabinet	parameter	brand	size	syntax	side	volume	large	manual														
+	#sense	223	203	214	216	189	205	213	237	332	217	253	323	194	223	238	260														
+	#sense tags	{}	{7, 29}	{2, 107}	{2, 3, 4, 6, 8, 9, 12, 18, 24, 27, 36, 54, 72, 108}	{3, 7, 9, 21, 27, 63}	{5, 41}	{3, 71}	{3, 79}	{2, 4, 83, 166}	{7, 31}	{11, 23}	{17, 19}	{2, 97}	{}	{2, 7, 14, 17, 34, 119}	{2, 4, 5, 10, 13, 20, 26, 52, 65, 130}														
+	#space	52	49	56	54	47	51	51	57	85	57	66	80	50	53	55	65														
+	#space tags	{2, 4, 13, 26}	{7}	{2, 4, 7, 8, 14, 28}	{2, 3, 6, 9, 18, 27}	{}	{3, 17}	{3, 17}	{3, 19}	{5, 17}	{3, 19}	{2, 3, 6, 11, 22, 33}	{2, 4, 5, 8, 10, 16, 20, 40}	{2, 5, 10, 25}	{}	{5, 11}	{5, 13}														

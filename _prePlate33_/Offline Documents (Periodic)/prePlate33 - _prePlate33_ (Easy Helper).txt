@@ -95,9 +95,9 @@
  - _random         : Power             // 5    - 
  - _serial         : Distribute        // 6    - 
  - _try            : Record            // 7    - 
- - _tool           :                   // 8    - 
- - _micro          :                   // 9    - 
- - _catch          :                   // 10   - 
+ - _tool           : Separate          // 8    - 
+ - _micro          : Bank              // 9    - 
+ - _catch          : Append            // 10   - 
  - _next           :                   // 11   - 
  - _this           :                   // 12   - 
  - _else           :                   // 13   - 
@@ -105,8 +105,8 @@
  - _equal          :                   // 15   - 
  - _previous       :                   // 16   - 
  - _continue       :                   // 17   - 
- - _adapt          :                   // 18   - 
- - _sequence       :                   // 19   - 
+ - _adapt          : Global            // 18   - 
+ - _sequence       : Virtual           // 19   - 
  - _main           : Logarithm         // 20   - 
  - _void           : Capsule           // 21   - 
  - _sort           : Structure         // 22   - 
