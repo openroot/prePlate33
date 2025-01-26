@@ -85,3 +85,32 @@
 	-	_print	:		Engine	//	24	-
 	-	_clip	:		Paper	//	25	-
 	-	_format	:		Heading	//	26	-
+								
+	-	_initiate_	:		Torrent	//	C#3	-
+								
+	-	_new	:		Relay	//	1	-
+	-	_source	:		Compute	//	2	-
+	-	_full	:		Analogue	//	3	-
+	-	_period	:		Filter	//	4	-
+	-	_random	:		Power	//	5	-
+	-	_serial	:		Distribute	//	6	-
+	-	_try	:		Record	//	7	-
+	-	_tool	:		Separate	//	8	-
+	-	_micro	:		Bank	//	9	-
+	-	_catch	:		Append	//	10	-
+	-	_next	:		Submit	//	11	-
+	-	_this	:		Caret	//	12	-
+	-	_else	:		Bend	//	13	-
+	-	_either	:		Accomplish	//	14	-
+	-	_equal	:		Beside	//	15	-
+	-	_previous	:		Track	//	16	-
+	-	_continue	:		Unit	//	17	-
+	-	_adapt	:		Global	//	18	-
+	-	_sequence	:		Virtual	//	19	-
+	-	_main	:		Logarithm	//	20	-
+	-	_void	:		Capsule	//	21	-
+	-	_sort	:		Structure	//	22	-
+	-	_count	:		Spring	//	23	-
+	-	_length	:		Link	//	24	-
+	-	_trim	:		Transform	//	25	-
+	-	_let	:		Gross	//	26	-
