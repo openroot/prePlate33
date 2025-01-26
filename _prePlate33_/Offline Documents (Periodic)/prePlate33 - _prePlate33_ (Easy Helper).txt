@@ -91,9 +91,9 @@
  - _new            : Relay             // 1    - 
  - _source         : Compute           // 2    - 
  - _full           : Analogue          // 3    - 
- - _period         :                   // 4    - 
- - _random         :                   // 5    - 
- - _serial         :                   // 6    - 
+ - _period         : Filter            // 4    - 
+ - _random         : Power             // 5    - 
+ - _serial         : Distribute        // 6    - 
  - _try            :                   // 7    - 
  - _tool           :                   // 8    - 
  - _micro          :                   // 9    - 
@@ -107,10 +107,10 @@
  - _continue       :                   // 17   - 
  - _adapt          :                   // 18   - 
  - _sequence       :                   // 19   - 
- - _main           :                   // 20   - 
- - _void           :                   // 21   - 
- - _sort           :                   // 22   - 
- - _count          :                   // 23   - 
+ - _main           : Logarithm         // 20   - 
+ - _void           : Capsule           // 21   - 
+ - _sort           : Structure         // 22   - 
+ - _count          : Spring            // 23   - 
  - _length         : Link              // 24   - 
  - _trim           : Transform         // 25   - 
  - _let            : Gross             // 26   - 

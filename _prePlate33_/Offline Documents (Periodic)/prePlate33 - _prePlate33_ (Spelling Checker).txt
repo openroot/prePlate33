@@ -26,3 +26,13 @@ mix	meet	energy	double	unity	joint	calculate	trip	compound	toll	chain	appendix	a
 race	name	hash	bind	card	compare	memory	clock	tune	drag	tick	cable	clue	now	angle	smart	role	coordinate	circuit	current	last	custom	complete	all	slide	media
 
 new	source	full	period	random	serial	try	tool	micro	catch	next	this	else	either	equal	previous	continue	adapt	sequence	main	void	sort	count	length	trim	let
+	amount
+	quality
+	pan
+	every
+	needle
+	batch
+	dump
+	legal
+	commit
+	elapse
