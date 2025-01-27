@@ -26,13 +26,13 @@ mix	meet	energy	double	unity	joint	calculate	trip	compound	toll	chain	appendix	a
 race	name	hash	bind	card	compare	memory	clock	tune	drag	tick	cable	clue	now	angle	smart	role	coordinate	circuit	current	last	custom	complete	all	slide	media
 
 new	source	full	period	random	serial	try	tool	micro	catch	next	this	else	either	equal	previous	continue	adapt	sequence	main	void	sort	count	length	trim	let
-	division	multiple	cube	amount
-	integer	socket	badge	quality
-	letter	bias	zoom	pan
-	diagnostic	shape	select	every
-	beat	plan	cue	needle
-	associate	rotate	icon	batch
-	auxiliary	skip	entity	dump
-	valid	same	fly	legal
-	registry	component	scratch	commit
-	uniform	ticket	orient	elapse
+	dish	scan	division	multiple	cube	amount
+	lid	desire	integer	socket	badge	quality
+	respect	studio	letter	bias	zoom	pan
+	scroll	segment	diagnostic	shape	select	every
+	present	model	beat	plan	cue	needle
+	past	spin	associate	rotate	icon	batch
+	curve	pop	auxiliary	skip	entity	dump
+	cabin	rational	valid	same	fly	legal
+	gate	find	registry	component	scratch	commit
+	result	which	uniform	ticket	orient	elapse
