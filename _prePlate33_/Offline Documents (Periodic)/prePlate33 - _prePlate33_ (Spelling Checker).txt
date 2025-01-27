@@ -26,13 +26,13 @@ mix	meet	energy	double	unity	joint	calculate	trip	compound	toll	chain	appendix	a
 race	name	hash	bind	card	compare	memory	clock	tune	drag	tick	cable	clue	now	angle	smart	role	coordinate	circuit	current	last	custom	complete	all	slide	media
 
 new	source	full	period	random	serial	try	tool	micro	catch	next	this	else	either	equal	previous	continue	adapt	sequence	main	void	sort	count	length	trim	let
-negative	wide	bin	detail	amplify	operate	idea										nozzle	top	facade	high	dish	scan	division	multiple	cube	amount
-neutral	bridge	release	pro	these	separate	chance										wing	automatic	small	torque	lid	desire	integer	socket	badge	quality
-timber	yield	duty	rule	remote	capacity	fact										gas	glass	lack	tower	respect	studio	letter	bias	zoom	pan
-expand	linear	pace	inter	fresh	journal	digit										sit	host	paint	version	scroll	segment	diagnostic	shape	select	every
-cheque	mat	arbitrary	throb	dice	parallel	second										alloy	width	tie	passive	present	model	beat	plan	cue	needle
-strike	only	add	diagram	follow	atom	minute										bot	breadth	draw	active	past	spin	associate	rotate	icon	batch
-collapse	article	service	intra	divide	browse	hour										miss	anchor	sketch	cyber	curve	pop	auxiliary	skip	entity	dump
-teeth	finish	grill	front	partition	hertz	shred										cut	law	comply	hub	cabin	rational	valid	same	fly	legal
-cache	aim	probe	pure	trunk	insulate	rail										semi	fan	advance	fibre	gate	find	registry	component	scratch	commit
-positive	bookmark	package	spot	cause	technology	fold										arm	bottom	corner	low	result	which	uniform	ticket	orient	elapse
+negative	wide	bin	detail	amplify	operate	idea	under									nozzle	top	facade	high	dish	scan	division	multiple	cube	amount
+neutral	bridge	release	pro	these	separate	chance	claim									wing	automatic	small	torque	lid	desire	integer	socket	badge	quality
+timber	yield	duty	rule	remote	capacity	fact	store									gas	glass	lack	tower	respect	studio	letter	bias	zoom	pan
+expand	linear	pace	inter	fresh	journal	digit	surplus									sit	host	paint	version	scroll	segment	diagnostic	shape	select	every
+cheque	mat	arbitrary	throb	dice	parallel	second	hall									alloy	width	tie	passive	present	model	beat	plan	cue	needle
+strike	only	add	diagram	follow	atom	minute	city									bot	breadth	draw	active	past	spin	associate	rotate	icon	batch
+collapse	article	service	intra	divide	browse	hour	costume									miss	anchor	sketch	cyber	curve	pop	auxiliary	skip	entity	dump
+teeth	finish	grill	front	partition	hertz	shred	electric									cut	law	comply	hub	cabin	rational	valid	same	fly	legal
+cache	aim	probe	pure	trunk	insulate	rail	sharp									semi	fan	advance	fibre	gate	find	registry	component	scratch	commit
+positive	bookmark	package	spot	cause	technology	fold	theme									arm	bottom	corner	low	result	which	uniform	ticket	orient	elapse
