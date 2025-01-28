@@ -117,29 +117,29 @@
 								
 	-	_create_	:	Fauna & Flora	Infrastructure	//	D#3	-
 								
-	-	_fraction	:			//		-
-	-	_exclude	:			//		-
-	-	_include	:			//		-
-	-	_admin	:			//		-
-	-	_static	:			//		-
-	-	_company	:			//		-
-	-	_door	:			//		-
-	-	_tablet	:			//		-
-	-	_trance	:			//		-
-	-	_insurance	:			//		-
-	-	_rear	:			//		-
-	-	_buy	:			//		-
-	-	_duo	:			//		-
-	-	_lock	:			//		-
-	-	_sell	:			//		-
-	-	_hide	:			//		-
-	-	_silent	:			//		-
-	-	_bed	:			//		-
-	-	_capsule	:			//		-
-	-	_satellite	:			//		-
-	-	_opaque	:			//		-
-	-	_throw	:			//		-
-	-	_error	:			//		-
-	-	_default	:			//		-
-	-	_cron	:			//		-
-	-	_function	:			//		-
+	-	_fraction	:			//	1	-
+	-	_exclude	:			//	2	-
+	-	_include	:			//	3	-
+	-	_admin	:			//	4	-
+	-	_static	:			//	5	-
+	-	_company	:			//	6	-
+	-	_door	:			//	7	-
+	-	_tablet	:			//	8	-
+	-	_trance	:			//	9	-
+	-	_insurance	:			//	10	-
+	-	_rear	:			//	11	-
+	-	_buy	:			//	12	-
+	-	_duo	:			//	13	-
+	-	_lock	:			//	14	-
+	-	_sell	:			//	15	-
+	-	_hide	:			//	16	-
+	-	_silent	:			//	17	-
+	-	_bed	:			//	18	-
+	-	_capsule	:			//	19	-
+	-	_satellite	:			//	20	-
+	-	_opaque	:			//	21	-
+	-	_throw	:			//	22	-
+	-	_error	:			//	23	-
+	-	_default	:			//	24	-
+	-	_cron	:			//	25	-
+	-	_function	:			//	26	-
