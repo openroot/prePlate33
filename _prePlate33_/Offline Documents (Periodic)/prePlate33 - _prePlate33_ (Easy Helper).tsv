@@ -28,7 +28,7 @@
 	-	_whole_	:		Council	//	25	-
 	-	_group_	:		Fuse	//	26	-
 								
-	-	_procedure_	:		Syntax	//	A#3	-
+	-	_procedure_	:	Faith	Syntax	//	A#3	-
 								
 	-	_bean	:		Management	//	1	-
 	-	_disk	:		Recursion	//	2	-
@@ -57,7 +57,7 @@
 	-	_block	:		Education	//	25	-
 	-	_unique	:		Requirement	//	26	-
 								
-	-	_decide_	:		Script	//	B#2	-
+	-	_decide_	:	Friend	Script	//	B#2	-
 								
 	-	_deep	:		Code	//	1	-
 	-	_box	:		Function	//	2	-
@@ -86,7 +86,7 @@
 	-	_clip	:		Paper	//	25	-
 	-	_format	:		Heading	//	26	-
 								
-	-	_initiate_	:		Torrent	//	C#3	-
+	-	_initiate_	:	Fun	Torrent	//	C#3	-
 								
 	-	_new	:		Relay	//	1	-
 	-	_source	:		Compute	//	2	-
@@ -114,3 +114,32 @@
 	-	_length	:		Link	//	24	-
 	-	_trim	:		Transform	//	25	-
 	-	_let	:		Gross	//	26	-
+								
+	-	_create_	:	Fauna & Flora	Infrastructure	//	D#3	-
+								
+	-	_fraction	:			//		-
+	-	_exclude	:			//		-
+	-	_include	:			//		-
+	-	_admin	:			//		-
+	-	_static	:			//		-
+	-	_company	:			//		-
+	-	_door	:			//		-
+	-	_tablet	:			//		-
+	-	_trance	:			//		-
+	-	_insurance	:			//		-
+	-	_rear	:			//		-
+	-	_buy	:			//		-
+	-	_duo	:			//		-
+	-	_lock	:			//		-
+	-	_sell	:			//		-
+	-	_hide	:			//		-
+	-	_silent	:			//		-
+	-	_bed	:			//		-
+	-	_capsule	:			//		-
+	-	_satellite	:			//		-
+	-	_opaque	:			//		-
+	-	_throw	:			//		-
+	-	_error	:			//		-
+	-	_default	:			//		-
+	-	_cron	:			//		-
+	-	_function	:			//		-
