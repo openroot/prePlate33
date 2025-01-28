@@ -56,7 +56,7 @@
 	#space tags		{5, 13}	{2, 4, 13, 26}	{2, 29}	{2, 3, 4, 6, 8, 12, 16, 24}	{2, 29}	{}	{2, 3, 4, 6, 8, 12, 16, 24}	{5, 11}	{2, 4, 13, 26}	{}	{3, 17}	{}	{3, 19}	{2, 4, 7, 8, 14, 28}	{2, 3, 6, 9, 18, 27}	{2, 31}	{2, 19}	{3, 17}	{2, 4, 13, 26}	{3, 17}	{3, 17}	{2, 4, 13, 26}	{}	{2, 4, 7, 8, 14, 28}	{2, 3, 4, 6, 8, 12, 16, 24}	{}					
 																																	
 	D#3		_fraction	_exclude	_include	_admin	_static	_company	_door	_tablet	_trance	_insurance	_rear	_buy	_duo	_lock	_sell	_hide	_silent	_bed	_capsule	_satellite	_opaque	_throw	_error	_default	_cron	_function		596	{2, 4, 149, 298}	147	{3, 7, 21, 49}
-	1		generic	hyphen	integrate	phrase	verb	handle	dry	install	noun	risk	duplicate	who	expense	adhoc	important	fluke	press	diameter	aperture	streak	grip	exempt	derive	versus	tempo	formula		613	{}	155	{5, 31}
+	1		generic	hyphen	integrate	phrase	verb	handle	dry	install	noun	risk	duplicate	who	expense	adhoc	important	fluke	due	diameter	aperture	streak	grip	exempt	derive	versus	tempo	formula		602	{2, 7, 14, 43, 86, 301}	153	{3, 9, 17, 51}
 	2																																
 	3																																
 	4																																
