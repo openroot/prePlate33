@@ -86,7 +86,7 @@
  - _clip           -                                                      Paper               // 25   - 
  - _format         -                                                      Heading             // 26   - 
 --------------------------------------------------------------------------------------------------------
- - _initiate_      -       Fun > Esteem > Depict > Castle > Bond > Arts > Torrent             // C#3  - 
+ - _initiate_      -       Fun > Esteem > Depict > Castle > Bind > Arts > Torrent             // C#3  - 
 --------------------------------------------------------------------------------------------------------
  - _new            -                                                      Relay               // 1    - 
  - _source         -                                                      Compute             // 2    - 
