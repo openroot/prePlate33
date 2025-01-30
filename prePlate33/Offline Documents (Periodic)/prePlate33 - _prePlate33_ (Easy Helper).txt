@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------------------------------
- - _prePlate33_    - Free > Expert > Debate > Condition > Break > Alarm > Application         // #    - 
+ - _prePlate33_    - Free > Expert > Debate > Condition > Bread > Alarm > Application         // #    - 
 --------------------------------------------------------------------------------------------------------
  - _procedure_     -                                                      Context             // 1    - 
  - _decide_        -                                                      Summary             // 2    - 
@@ -60,7 +60,7 @@
  - _decide_        -         Friend > Elite > Dive > Clock > Boat > Ask > Script              // B#2  - 
 --------------------------------------------------------------------------------------------------------
  - _deep           -                                                      Code                // 1    - 
- - _box            -                                                      Function            // 2    - 
+ - _box            -                                                      Method              // 2    - 
  - _for            -                                                      Class               // 3    - 
  - _medium         -                                                      Namespace           // 4    - 
  - _liquid         -                                                      Library             // 5    - 
@@ -108,7 +108,7 @@
  - _adapt          -                                                      Global              // 18   - 
  - _sequence       -                                                      Virtual             // 19   - 
  - _main           -                                                      Logarithm           // 20   - 
- - _void           -                                                      Capsule             // 21   - 
+ - _void           -                                                      Cap                 // 21   - 
  - _sort           -                                                      Structure           // 22   - 
  - _count          -                                                      Spring              // 23   - 
  - _length         -                                                      Link                // 24   - 
