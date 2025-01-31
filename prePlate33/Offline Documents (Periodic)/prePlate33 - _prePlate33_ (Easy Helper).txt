@@ -117,30 +117,30 @@
 --------------------------------------------------------------------------------------------------------
  - _create_        -      Fauna & Flora > Epic > Dais > Cave > By > All > Infrastructure      // D#3  - 
 --------------------------------------------------------------------------------------------------------
- - _fraction       -                                                                          // 1    - 
- - _exclude        -                                                                          // 2    - 
- - _include        -                                                                          // 3    - 
- - _admin          -                                                                          // 4    - 
- - _static         -                                                                          // 5    - 
- - _company        -                                                                          // 6    - 
- - _door           -                                                                          // 7    - 
- - _tablet         -                                                                          // 8    - 
- - _trance         -                                                                          // 9    - 
- - _insurance      -                                                                          // 10   - 
- - _rear           -                                                                          // 11   - 
- - _buy            -                                                                          // 12   - 
- - _duo            -                                                                          // 13   - 
- - _lock           -                                                                          // 14   - 
- - _sell           -                                                                          // 15   - 
- - _hide           -                                                                          // 16   - 
- - _silent         -                                                                          // 17   - 
- - _bed            -                                                                          // 18   - 
- - _capsule        -                                                                          // 19   - 
- - _satellite      -                                                                          // 20   - 
- - _opaque         -                                                                          // 21   - 
- - _throw          -                                                                          // 22   - 
- - _error          -                                                                          // 23   - 
- - _default        -                                                                          // 24   - 
- - _cron           -                                                                          // 25   - 
- - _function       -                                                                          // 26   - 
+ - _fraction       -                                                      Lesson              // 1    - 
+ - _exclude        -                                                      Stylish             // 2    - 
+ - _include        -                                                      Canal               // 3    - 
+ - _admin          -                                                      Magazine            // 4    - 
+ - _static         -                                                      Inertia             // 5    - 
+ - _company        -                                                      Foundation          // 6    - 
+ - _door           -                                                      Appropriate         // 7    - 
+ - _tablet         -                                                      Fortune             // 8    - 
+ - _trance         -                                                      Fledge              // 9    - 
+ - _insurance      -                                                      Panorama            // 10   - 
+ - _rear           -                                                      Worth               // 11   - 
+ - _buy            -                                                      Wealth              // 12   - 
+ - _duo            -                                                      Cliff               // 13   - 
+ - _lock           -                                                      Basic               // 14   - 
+ - _sell           -                                                      Hurdle              // 15   - 
+ - _hide           -                                                      Quarter             // 16   - 
+ - _silent         -                                                      Frequency           // 17   - 
+ - _bed            -                                                      Refraction          // 18   - 
+ - _capsule        -                                                      Circumstance        // 19   - 
+ - _satellite      -                                                      Relevance           // 20   - 
+ - _opaque         -                                                      Composite           // 21   - 
+ - _throw          -                                                      Rarity              // 22   - 
+ - _error          -                                                      Campus              // 23   - 
+ - _default        -                                                      Compatible          // 24   - 
+ - _cron           -                                                      Diary               // 25   - 
+ - _function       -                                                      Lexicon             // 26   - 
 --------------------------------------------------------------------------------------------------------
