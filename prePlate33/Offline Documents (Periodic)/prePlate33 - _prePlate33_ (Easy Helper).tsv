@@ -143,3 +143,32 @@
 	-	_default	:		Compatible	//	24	-
 	-	_cron	:		Diary	//	25	-
 	-	_function	:		Lexicon	//	26	-
+								
+	-	_process_	:			//	E#3	-
+								
+	-	_splash	:			//	1	-
+	-	_true	:			//	2	-
+	-	_float	:			//	3	-
+	-	_spout	:			//	4	-
+	-	_abstract	:			//	5	-
+	-	_flux	:			//	6	-
+	-	_delta	:			//	7	-
+	-	_align	:			//	8	-
+	-	_texture	:			//	9	-
+	-	_exponent	:			//	10	-
+	-	_object	:			//	11	-
+	-	_success	:			//	12	-
+	-	_bonus	:			//	13	-
+	-	_suit	:			//	14	-
+	-	_precede	:			//	15	-
+	-	_star	:			//	16	-
+	-	_jack	:			//	17	-
+	-	_gradient	:			//	18	-
+	-	_tint	:			//	19	-
+	-	_alias	:			//	20	-
+	-	_gamma	:			//	21	-
+	-	_interface	:			//	22	-
+	-	_distinct	:			//	23	-
+	-	_string	:			//	24	-
+	-	_false	:			//	25	-
+	-	_jump	:			//	26	-
