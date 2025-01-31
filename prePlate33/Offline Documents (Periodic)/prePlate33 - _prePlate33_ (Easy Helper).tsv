@@ -147,7 +147,7 @@
 	-	_process_	:	Fact > Elect > Dense > Cream > Bridge > At > 	Quantum	//	E#3	-
 								
 	-	_splash	:		Sample	//	1	-
-	-	_true	:			//	2	-
+	-	_true	:		Force	//	2	-
 	-	_float	:			//	3	-
 	-	_spout	:			//	4	-
 	-	_abstract	:			//	5	-
@@ -170,5 +170,5 @@
 	-	_interface	:			//	22	-
 	-	_distinct	:			//	23	-
 	-	_string	:			//	24	-
-	-	_false	:			//	25	-
+	-	_false	:		Accelerate	//	25	-
 	-	_jump	:		Periodic	//	26	-
