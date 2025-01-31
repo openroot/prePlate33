@@ -147,12 +147,12 @@
  - _process_       -         Fact > Elect > Dense > Cream > Bridge > At > Quantum             // E#3  - 
 --------------------------------------------------------------------------------------------------------
  - _splash         -                                                      Sample              // 1    - 
- - _true           -                                                                          // 2    - 
- - _float          -                                                                          // 3    - 
- - _spout          -                                                                          // 4    - 
- - _abstract       -                                                                          // 5    - 
- - _flux           -                                                                          // 6    - 
- - _delta          -                                                                          // 7    - 
+ - _true           -                                                      Force               // 2    - 
+ - _float          -                                                      Set                 // 3    - 
+ - _spout          -                                                      File                // 4    - 
+ - _abstract       -                                                      Effect              // 5    - 
+ - _flux           -                                                      Fragment            // 6    - 
+ - _delta          -                                                      Impact              // 7    - 
  - _align          -                                                                          // 8    - 
  - _texture        -                                                                          // 9    - 
  - _exponent       -                                                                          // 10   - 
@@ -165,11 +165,11 @@
  - _jack           -                                                                          // 17   - 
  - _gradient       -                                                                          // 18   - 
  - _tint           -                                                                          // 19   - 
- - _alias          -                                                                          // 20   - 
- - _gamma          -                                                                          // 21   - 
- - _interface      -                                                                          // 22   - 
- - _distinct       -                                                                          // 23   - 
- - _string         -                                                                          // 24   - 
+ - _alias          -                                                      Mock                // 20   - 
+ - _gamma          -                                                      Practical           // 21   - 
+ - _interface      -                                                      Apply               // 22   - 
+ - _distinct       -                                                      Signature           // 23   - 
+ - _string         -                                                      Stretch             // 24   - 
  - _false          -                                                      Accelerate          // 25   - 
  - _jump           -                                                      Periodic            // 26   - 
  --------------------------------------------------------------------------------------------------------
