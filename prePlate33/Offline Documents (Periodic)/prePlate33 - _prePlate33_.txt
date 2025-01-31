@@ -46,4 +46,4 @@ snooze	inverse	horizontal	loan	toast	shrine	below	wash	free	sacred	diverse	skill
 vacuum	plot	forum	life	spread	stellar	traffic	minor	rent	partial	distance	rack	coil	facility	blend	vocal	property	enlist	slam	seed	license	binary	slip	none	fail	security
 dialect	court	option	valve	resume	boost	collaborate	fusion	persist	verge	diagonal	dessert	trust	description	ceramic	abundant	biometric	hybrid	dynamic	complicate	award	supplement	migrate	explore	critic	budget
 
-_splash _true _float _spout _abstract _flux _delta _align _texture _exponent _object _success _bonus _suit _precede _star _jack _gradient _tint _alias _gamma _interface _distinct _string _false _jump
+_splash	_true	_float	_spout	_abstract	_flux	_delta	_align	_texture	_exponent	_object	_success	_bonus	_suit	_precede	_star	_jack	_gradient	_tint	_alias	_gamma	_interface	_distinct	_string	_false	_jump

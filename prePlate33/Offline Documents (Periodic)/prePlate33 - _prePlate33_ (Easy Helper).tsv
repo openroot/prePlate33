@@ -18,7 +18,7 @@
 	-	_use_	:		Copyright	//	15	-
 	-	_office_	:		Park	//	16	-
 	-	_relate_	:		Sensor	//	17	-
-	-	_make_	:		Gradient	//	18	-
+	-	_make_	:		Radius	//	18	-
 	-	_wave_	:		Transmission	//	19	-
 	-	_interest_	:		Coin	//	20	-
 	-	_band_	:		Aggregate	//	21	-
@@ -144,7 +144,7 @@
 	-	_cron	:		Diary	//	25	-
 	-	_function	:		Lexicon	//	26	-
 								
-	-	_process_	:			//	E#3	-
+	-	_process_	:	Fact > Elect > Dense > Cream > Bridge > At > 	Quantum	//	E#3	-
 								
 	-	_splash	:			//	1	-
 	-	_true	:			//	2	-
