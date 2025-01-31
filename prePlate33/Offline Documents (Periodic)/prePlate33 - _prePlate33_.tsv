@@ -69,14 +69,14 @@
 	#space tags		{7}	{3, 5, 9, 15}	{}	{2, 3, 4, 6, 9, 12, 18}	{2, 17}	{2, 3, 4, 6, 9, 12, 18}	{2, 4, 11, 22}	{2, 3, 4, 6, 9, 12, 18}	{2, 17}	{2, 4, 5, 8, 10, 20}	{2, 3, 6, 9, 18, 27}	{}	{2, 17}	{2, 4, 7, 8, 14, 28}	{2, 23}	{5, 7}	{2, 3, 6, 9, 18, 27}	{2, 3, 6, 7, 14, 21}	{2, 3, 4, 6, 9, 12, 18}	{2, 19}	{}	{2, 4, 5, 8, 10, 20}	{3, 11}	{5, 7}	{5, 7}	{}					
 																																	
 	E#3		_splash	_true	_float	_spout	_abstract	_flux	_delta	_align	_texture	_exponent	_object	_success	_bonus	_suit	_precede	_star	_jack	_gradient	_tint	_alias	_gamma	_interface	_distinct	_string	_false	_jump		576	{2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 64, 72, 96, 144, 192, 288}	148	{2, 4, 37, 74}
-	1																																
-	2																																
-	3																																
-	4																																
-	#sense																																
-	#sense tags																																
-	#space																																
-	#space tags																																
+	1		differential	fountain	strict	axel	agree	improve	native	win	colon	farm	decisive	education	herb	sport	baggage	suffice	contact	show	topic	escape	opinion	accept	wild	rapid	territory	league		612	{2, 3, 4, 6, 9, 12, 17, 18, 34, 36, 51, 68, 102, 153, 204, 306}	159	{3, 53}
+	2		contextual	reverse	digital	job	principle	field	objective	efficient	look	institute	probability	individual	payment	input	collar	fiscal	trench	firm	deliver	provide	toss	legit	soft	invert	preface	intelligence		699	{3, 233}	179	{}
+	3		logical	encircle	soon	pole	determinant	lambda	insight	ultra	permanent	industry	mobility	amongst	income	output	beneficiary	economical	committee	dividend	sequel	aid	enquiry	behold	hard	approx	popular	brilliance		737	{11, 67}	183	{3, 61}
+	4		physical	sphere	globe	rush	reset	information	negligible	kit	vacation	enterprise	personnel	pen	manifest	coat	road	equation	commodity	vacancy	metro	well	oscillation	closure	tour	cuboid	promotion	medal		711	{3, 9, 79, 237}	173	{}
+	#sense		152	113	86	64	112	117	113	81	110	122	144	112	99	83	104	128	118	88	91	80	128	95	69	82	135	133		2759	{31, 89}	694	{2, 347}
+	#sense tags		{2, 4, 8, 19, 38, 76}	{}	{2, 43}	{2, 4, 8, 16, 32}	{2, 4, 7, 8, 14, 16, 28, 56}	{3, 9, 13, 39}	{}	{3, 9, 27}	{2, 5, 10, 11, 22, 55}	{2, 61}	{2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72}	{2, 4, 7, 8, 14, 16, 28, 56}	{3, 9, 11, 33}	{}	{2, 4, 8, 13, 26, 52}	{2, 4, 8, 16, 32, 64}	{2, 59}	{2, 4, 8, 11, 22, 44}	{7, 13}	{2, 4, 5, 8, 10, 16, 20, 40}	{2, 4, 8, 16, 32, 64}	{5, 19}	{3, 23}	{2, 41}	{3, 5, 9, 15, 27, 45}	{7, 19}		106.1153846153846		26.69230769230769	
+	#space		37	29	22	15	30	29	32	20	26	31	36	29	25	20	28	31	31	23	23	20	29	24	16	23	32	33					
+	#space tags		{}	{}	{2, 11}	{3, 5}	{2, 3, 5, 6, 10, 15}	{}	{2, 4, 8, 16}	{2, 4, 5, 10}	{2, 13}	{}	{2, 3, 4, 6, 9, 12, 18}	{}	{5}	{2, 4, 5, 10}	{2, 4, 7, 14}	{}	{}	{}	{}	{2, 4, 5, 10}	{}	{2, 3, 4, 6, 8, 12}	{2, 4, 8}	{}	{2, 4, 8, 16}	{3, 11}					
 																																	
 			1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26					
 			A#3	B#2	C#3	D#3	E#3	F#5	G#3	H#4	I#3	J#5	K#5	L#7	M#5	N#5	O#5	P#5	Q#4	R#4	S#5	T#3	U#5	V#2	W#7	X#1	Y#6	Z#6		#sense	#sense tags	#space	#space tags
