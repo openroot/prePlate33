@@ -59,16 +59,16 @@
 --------------------------------------------------------------------------------------------------------
  - _decide_        -         Friend > Elite > Dive > Clock > Boat > Ask > Script              // B#2  - 
 --------------------------------------------------------------------------------------------------------
- - _deep           -                                                      Code                // 1    - 
- - _box            -                                                      Method              // 2    - 
- - _for            -                                                      Class               // 3    - 
+ - _deep           -                                                      Chrome              // 1    - 
+ - _box            -                                                      Methodology         // 2    - 
+ - _for            -                                                      Scenery             // 3    - 
  - _medium         -                                                      Namespace           // 4    - 
  - _liquid         -                                                      Library             // 5    - 
  - _start          -                                                      Framework           // 6    - 
  - _orbit          -                                                      Platform            // 7    - 
  - _course         -                                                      Kernel              // 8    - 
  - _guest          -                                                      Display             // 9    - 
- - _sound          -                                                      Assembly            // 10   - 
+ - _sound          -                                                      Asymmetry           // 10   - 
  - _point          -                                                      Symbol              // 11   - 
  - _origin         -                                                      Linear              // 12   - 
  - _entry          -                                                      Carbon              // 13   - 
@@ -172,4 +172,33 @@
  - _string         -                                                      Stretch             // 24   - 
  - _false          -                                                      Accelerate          // 25   - 
  - _jump           -                                                      Periodic            // 26   - 
+ --------------------------------------------------------------------------------------------------------
+ - _execute_       -         Flat > Energy > Date > Case > Border > Aim > Motor               // F#5  - 
+--------------------------------------------------------------------------------------------------------
+ - _measure        -                                                      Frame               // 1    - 
+ - _explode        -                                                      Cell                // 2    - 
+ - _list           -                                                      Dash                // 3    - 
+ - _receive        -                                                      Torque              // 4    - 
+ - _graphic        -                                                      Push                // 5    - 
+ - _put            -                                                      Scheme              // 6    - 
+ - _direction      -                                                      Shift               // 7    - 
+ - _class          -                                                      Access              // 8    - 
+ - _implement      -                                                      Sign                // 9    - 
+ - _prototype      -                                                      Metre               // 10   - 
+ - _assembly       -                                                      Spot                // 11   - 
+ - _amplifier      -                                                      Insulate            // 12   - 
+ - _genesis        -                                                      Equalise            // 13   - 
+ - _develop        -                                                      Install             // 14   - 
+ - _transceiver    -                                                      Radio               // 15   - 
+ - _typography     -                                                      turn                // 16   - 
+ - _deployment     -                                                      Escalate            // 17   - 
+ - _communicate    -                                                      Reflect             // 18   - 
+ - _attribute      -                                                      Through             // 19   - 
+ - _transaction    -                                                      Wheel               // 20   - 
+ - _get            -                                                      Arrow               // 21   - 
+ - _buffer         -                                                      Pull                // 22   - 
+ - _transmit       -                                                      Compile             // 23   - 
+ - _dictionary     -                                                      Hike                // 24   - 
+ - _implode        -                                                      Ring                // 25   - 
+ - _swing          -                                                      Wool                // 26   - 
  --------------------------------------------------------------------------------------------------------
