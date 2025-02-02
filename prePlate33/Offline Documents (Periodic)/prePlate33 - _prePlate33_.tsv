@@ -79,20 +79,20 @@
 	#space tags		{}	{}	{2, 11}	{3, 5}	{2, 3, 5, 6, 10, 15}	{}	{2, 4, 8, 16}	{2, 4, 5, 10}	{2, 13}	{}	{2, 3, 4, 6, 9, 12, 18}	{}	{5}	{2, 4, 5, 10}	{2, 4, 7, 14}	{}	{}	{}	{}	{2, 4, 5, 10}	{}	{2, 3, 4, 6, 8, 12}	{2, 4, 8}	{}	{2, 4, 8, 16}	{3, 11}					
 																																	
 	F#5		_measure	_explode	_list	_receive	_graphic	_put	_direction	_class	_implement	_prototype	_assembly	_amplifier	_genesis	_develop	_transceiver	_typography	_deployment	_communicate	_attribute	_transaction	_get	_buffer	_transmit	_dictionary	_implode	_swing		791	{7, 113}	200	{2, 4, 5, 8, 10, 20, 25, 40, 50, 100}
-	1																																
-	2																																
-	3																																
-	4																																
-	5																																
-	6																																
-	7																																
-	8																																
-	9																																
-	10																																
-	#sense																																
-	#sense tags																																
-	#space																																
-	#space tags																																
+	1		envelope	bonsai	compatible	palette	emphasis	momentum	oral	neuron	easy	compass	affiliate	thin	mini	tiny	hatch	levitate	algorithm	feat	skeleton	ethic	hello	crystal	mortal	surpass	foreign	announce		693	{3, 7, 9, 11, 21, 33, 63, 77, 99, 231}	168	{2, 3, 4, 6, 7, 8, 12, 14, 21, 24, 28, 42, 56, 84}
+	2		hierarchy	hint	capacitance	renew	requisite	timeline	simultaneous	surveillance	pump	ledger	punch	see	warm	join	talk	kick	episode	lift	atmosphere	conference	development	divert	family	capture	forth	consistent		726	{2, 3, 6, 11, 22, 33, 66, 121, 242, 363}	180	{2, 3, 4, 5, 6, 9, 10, 12, 15, 18, 20, 30, 36, 45, 60, 90}
+	3		spontaneous	shield	threshold	couple	minus	mutual	even	habitation	left	essential	eight	symptom	meridian	imaginary	hut	sigma	percent	hang	entangle	fund	school	combo	syrup	stuff	devise	demonstrate		687	{3, 229}	168	{2, 3, 4, 6, 7, 8, 12, 14, 21, 24, 28, 42, 56, 84}
+	4		according	throttle	purchase	travel	often	bucket	odd	consortium	genre	oven	analogue	patent	volatile	accumulate	dimension	express	bottle	manner	allocation	participant	country	enough	allow	goods	propose	represent		744	{2, 3, 4, 6, 8, 12, 24, 31, 62, 93, 124, 186, 248, 372}	184	{2, 4, 8, 23, 46, 92}
+	5		available	picture	alphabet	secure	question	image	visual	photo	clinic	leaflet	idiom	magic	retina	brain	meal	lean	bulletin	study	lottery	conceal	official	solvent	public	candy	video	enhance		642	{2, 3, 6, 107, 214, 321}	161	{7, 23}
+	6		vegetation	analyse	tabular	clear	answer	superior	compete	appear	conscious	preserve	collective	factorial	vulnerable	coherence	metaphor	strategy	caption	awake	breeze	concurrent	municipal	prior	clean	premier	glossary	molecule		795	{3, 5, 15, 53, 159, 265}	197	{}
+	7		stitch	friction	regulatory	gather	schema	castle	cash	discrete	catalogue	clash	definite	flip	condition	ground	intent	accent	inject	recurring	motion	fashion	site	dialogue	ping	especial	terrain	campaign		672	{2, 3, 4, 6, 7, 8, 12, 14, 16, 21, 24, 28, 32, 42, 48, 56, 84, 96, 112, 168, 224, 336}	174	{2, 3, 6, 29, 58, 87}
+	8		flight	guard	workshop	wise	assure	enclose	trophy	network	inventory	expert	gradual	illuminate	variance	eliminate	cryptography	radiant	formal	social	pendulum	transmission	mention	offer	evaluate	polish	promise	nucleus		795	{3, 5, 15, 53, 159, 265}	189	{3, 7, 9, 21, 27, 63}
+	9		entertain	apply	remittance	artefact	matrix	author	century	occurrence	cluster	imprint	convex	trail	principal	directive	tease	concave	surface	stump	indication	approve	portal	purpose	title	transport	bank	universal		714	{2, 3, 6, 7, 14, 17, 21, 34, 42, 51, 102, 119, 238, 357}	185	{5, 37}
+	10		sprinkle	external	maintenance	personal	suggestion	corridor	daily	ambition	medic	basis	tenant	fest	revenue	department	torch	dependent	twig	spirit	imperial	consider	intercept	tender	mortgage	preference	internal	fragile		737	{11, 67}	191	{}
+	#sense		329	257	362	244	277	278	242	325	254	253	262	235	283	284	243	237	270	221	337	321	305	252	249	285	257	343		7205	{5, 11, 55, 131, 655, 1441}	1797	{3, 599}
+	#sense tags		{7, 47}	{}	{2, 181}	{2, 4, 61, 122}	{}	{2, 139}	{2, 11, 22, 121}	{5, 13, 25, 65}	{2, 127}	{11, 23}	{2, 131}	{5, 47}	{}	{2, 4, 71, 142}	{3, 9, 27, 81}	{3, 79}	{2, 3, 5, 6, 9, 10, 15, 18, 27, 30, 45, 54, 90, 135}	{13, 17}	{}	{3, 107}	{5, 61}	{2, 3, 4, 6, 7, 9, 12, 14, 18, 21, 28, 36, 42, 63, 84, 126}	{3, 83}	{3, 5, 15, 19, 57, 95}	{}	{7, 49}		277.1153846153846		69.11538461538462	
+	#space		85	64	92	61	69	68	58	82	62	64	69	57	73	75	61	65	67	54	81	81	72	62	58	69	64	84					
+	#space tags		{5, 17}	{2, 4, 8, 16, 32}	{2, 4, 23, 46}	{}	{3, 23}	{2, 4, 17, 34}	{2, 29}	{2, 41}	{2, 31}	{2, 4, 8, 16, 32}	{3. 23}	{3, 19}	{}	{3, 5, 15, 25}	{}	{5, 13}	{}	{2, 3, 6, 9, 18, 27}	{3, 9, 27}	{3, 9, 27}	{2, 3, 4, 6, 8, 9, 12, 18, 24, 36}	{2, 31}	{2, 29}	{3, 23}	{2, 4, 8, 16, 32}	{2, 3, 4, 6, 7, 12, 14, 21, 28, 42}					
 																																	
 			1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26					
 			A#3	B#2	C#3	D#3	E#3	F#5	G#3	H#4	I#3	J#5	K#5	L#7	M#5	N#5	O#5	P#5	Q#4	R#4	S#5	T#3	U#5	V#2	W#7	X#1	Y#6	Z#6		#sense	#sense tags	#space	#space tags
