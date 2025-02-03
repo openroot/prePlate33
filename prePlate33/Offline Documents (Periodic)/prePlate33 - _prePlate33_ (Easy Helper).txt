@@ -206,11 +206,11 @@
 --------------------------------------------------------------------------------------------------------
  - _refill         -                                                      Chair               // 1    - 
  - _response       -                                                      Temporary           // 2    - 
- - _general        -                                                                          // 3    - 
- - _wish           -                                                                          // 4    - 
- - _authentication -                                                                          // 5    - 
- - _debit          -                                                                          // 6    - 
- - _planet         -                                                                          // 7    - 
+ - _general        -                                                      Explanation         // 3    - 
+ - _wish           -                                                      Portfolio           // 4    - 
+ - _authentication -                                                      Mnemonic            // 5    - 
+ - _debit          -                                                      Exclusive           // 6    - 
+ - _planet         -                                                      Earth               // 7    - 
  - _hibernate      -                                                                          // 8    - 
  - _namespace      -                                                                          // 9    - 
  - _methodology    -                                                                          // 10   - 
@@ -223,11 +223,11 @@
  - _investment     -                                                                          // 17   - 
  - _framework      -                                                                          // 18   - 
  - _display        -                                                                          // 19   - 
- - _master         -                                                                          // 20   - 
- - _credit         -                                                                          // 21   - 
- - _authorisation  -                                                                          // 22   - 
- - _quit           -                                                                          // 23   - 
- - _kernel         -                                                                          // 24   - 
+ - _master         -                                                      Pressure            // 20   - 
+ - _credit         -                                                      Typo                // 21   - 
+ - _authorisation  -                                                      Smart               // 22   - 
+ - _quit           -                                                      Notice              // 23   - 
+ - _kernel         -                                                      Afterword           // 24   - 
  - _platform       -                                                      Album               // 25   - 
  - _problem        -                                                      Quotation           // 26   - 
 --------------------------------------------------------------------------------------------------------
