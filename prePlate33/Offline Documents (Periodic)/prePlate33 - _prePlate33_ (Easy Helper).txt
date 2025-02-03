@@ -60,14 +60,14 @@
  - _decide_        -         Friend > Elite > Dive > Clock > Boat > Ask > Script              // B#2  - 
 --------------------------------------------------------------------------------------------------------
  - _deep           -                                                      Chrome              // 1    - 
- - _box            -                                                      Methodology         // 2    - 
+ - _box            -                                                      Rack                // 2    - 
  - _for            -                                                      Scenery             // 3    - 
- - _medium         -                                                      Namespace           // 4    - 
- - _liquid         -                                                      Library             // 5    - 
- - _start          -                                                      Framework           // 6    - 
- - _orbit          -                                                      Platform            // 7    - 
- - _course         -                                                      Kernel              // 8    - 
- - _guest          -                                                      Display             // 9    - 
+ - _medium         -                                                      Network             // 4    - 
+ - _liquid         -                                                      Custom             // 5    - 
+ - _start          -                                                      Flask               // 6    - 
+ - _orbit          -                                                      Basket              // 7    - 
+ - _course         -                                                      Shell               // 8    - 
+ - _guest          -                                                      Screen              // 9    - 
  - _sound          -                                                      Asymmetry           // 10   - 
  - _point          -                                                      Symbol              // 11   - 
  - _origin         -                                                      Linear              // 12   - 
@@ -80,8 +80,8 @@
  - _task           -                                                      Top                 // 19   - 
  - _data           -                                                      Piece               // 20   - 
  - _stop           -                                                      Total               // 21   - 
- - _opposite       -                                                      Server              // 22   - 
- - _similar        -                                                      Network             // 23   - 
+ - _opposite       -                                                      Serve               // 22   - 
+ - _similar        -                                                      Nest                // 23   - 
  - _print          -                                                      Engine              // 24   - 
  - _clip           -                                                      Paper               // 25   - 
  - _format         -                                                      Heading             // 26   - 
@@ -172,7 +172,7 @@
  - _string         -                                                      Stretch             // 24   - 
  - _false          -                                                      Accelerate          // 25   - 
  - _jump           -                                                      Periodic            // 26   - 
- --------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
  - _execute_       -         Flat > Energy > Date > Case > Border > Aim > Motor               // F#5  - 
 --------------------------------------------------------------------------------------------------------
  - _measure        -                                                      Frame               // 1    - 
@@ -201,33 +201,33 @@
  - _dictionary     -                                                      Hike                // 24   - 
  - _implode        -                                                      Ring                // 25   - 
  - _swing          -                                                      Wool                // 26   - 
- --------------------------------------------------------------------------------------------------------
- - _switch_        -                                     >  >  >  >  >  >                     // G#3  - 
 --------------------------------------------------------------------------------------------------------
- -                 -                                                                          // 1    - 
- -                 -                                                                          // 2    - 
- -                 -                                                                          // 3    - 
- -                 -                                                                          // 4    - 
- -                 -                                                                          // 5    - 
- -                 -                                                                          // 6    - 
- -                 -                                                                          // 7    - 
- -                 -                                                                          // 8    - 
- -                 -                                                                          // 9    - 
- -                 -                                                                          // 10   - 
- -                 -                                                                          // 11   - 
- -                 -                                                                          // 12   - 
- -                 -                                                                          // 13   - 
- -                 -                                                                          // 14   - 
- -                 -                                                                          // 15   - 
- -                 -                                                                          // 16   - 
- -                 -                                                                          // 17   - 
- -                 -                                                                          // 18   - 
- -                 -                                                                          // 19   - 
- -                 -                                                                          // 20   - 
- -                 -                                                                          // 21   - 
- -                 -                                                                          // 22   - 
- -                 -                                                                          // 23   - 
- -                 -                                                                          // 24   - 
- -                 -                                                                          // 25   - 
- -                 -                                                                          // 26   - 
- --------------------------------------------------------------------------------------------------------
+ - _switch_        -      Fluid > Explore > Drive > Choice > Book > And > Wrap                // G#3  - 
+--------------------------------------------------------------------------------------------------------
+ - _refill         -                                                      Chair               // 1    - 
+ - _response       -                                                      Temporary           // 2    - 
+ - _general        -                                                                          // 3    - 
+ - _wish           -                                                                          // 4    - 
+ - _authentication -                                                                          // 5    - 
+ - _debit          -                                                                          // 6    - 
+ - _planet         -                                                                          // 7    - 
+ - _hibernate      -                                                                          // 8    - 
+ - _namespace      -                                                                          // 9    - 
+ - _methodology    -                                                                          // 10   - 
+ - _library        -                                                                          // 11   - 
+ - _accessory      -                                                                          // 12   - 
+ - _miscellaneous  -                                                                          // 13   - 
+ - _repository     -                                                                          // 14   - 
+ - _pastel         -                                                                          // 15   - 
+ - _server         -                                                                          // 16   - 
+ - _investment     -                                                                          // 17   - 
+ - _framework      -                                                                          // 18   - 
+ - _display        -                                                                          // 19   - 
+ - _master         -                                                                          // 20   - 
+ - _credit         -                                                                          // 21   - 
+ - _authorisation  -                                                                          // 22   - 
+ - _quit           -                                                                          // 23   - 
+ - _kernel         -                                                                          // 24   - 
+ - _platform       -                                                      Album               // 25   - 
+ - _problem        -                                                      Quotation           // 26   - 
+--------------------------------------------------------------------------------------------------------
