@@ -211,18 +211,18 @@
  - _authentication -                                                      Mnemonic            // 5    - 
  - _debit          -                                                      Exclusive           // 6    - 
  - _planet         -                                                      Earth               // 7    - 
- - _hibernate      -                                                                          // 8    - 
- - _namespace      -                                                                          // 9    - 
- - _methodology    -                                                                          // 10   - 
- - _library        -                                                                          // 11   - 
- - _accessory      -                                                                          // 12   - 
- - _miscellaneous  -                                                                          // 13   - 
- - _repository     -                                                                          // 14   - 
- - _pastel         -                                                                          // 15   - 
- - _server         -                                                                          // 16   - 
- - _investment     -                                                                          // 17   - 
- - _framework      -                                                                          // 18   - 
- - _display        -                                                                          // 19   - 
+ - _hibernate      -                                                      Excel               // 8    - 
+ - _namespace      -                                                      Document            // 9    - 
+ - _methodology    -                                                      Voucher             // 10   - 
+ - _library        -                                                      Favourite           // 11   - 
+ - _accessory      -                                                      Solidarity          // 12   - 
+ - _miscellaneous  -                                                      Profession          // 13   - 
+ - _repository     -                                                      Inclusive           // 14   - 
+ - _pastel         -                                                      Example             // 15   - 
+ - _server         -                                                      Material            // 16   - 
+ - _investment     -                                                      Advisory            // 17   - 
+ - _framework      -                                                      Synonymous          // 18   - 
+ - _display        -                                                      Ultimate            // 19   - 
  - _master         -                                                      Pressure            // 20   - 
  - _credit         -                                                      Typo                // 21   - 
  - _authorisation  -                                                      Smart               // 22   - 
