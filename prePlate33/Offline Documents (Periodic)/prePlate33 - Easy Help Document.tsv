@@ -22,7 +22,7 @@
 	-	_relate_	:		Sensor	//	17	-
 	-	_make_	:		Radius	//	18	-
 	-	_wave_	:		Transmission	//	19	-
-	-	_interest_	:		Coin	//	20	-
+	-	_interest_	:		Layer	//	20	-
 	-	_band_	:		Aggregate	//	21	-
 	-	_reason_	:		History	//	22	-
 	-	_slim_	:		Electric	//	23	-
@@ -235,29 +235,29 @@
 								
 	-	_verify_	:	Fire > Evaluate > Discover > Cone > Base > Assert > 	Hood	//	H#4	-
 								
-	-		:			//	1	-
-	-		:			//	2	-
-	-		:			//	3	-
-	-		:			//	4	-
-	-		:			//	5	-
-	-		:			//	6	-
-	-		:			//	7	-
-	-		:			//	8	-
-	-		:			//	9	-
-	-		:			//	10	-
-	-		:			//	11	-
-	-		:			//	12	-
-	-		:			//	13	-
-	-		:			//	14	-
-	-		:			//	15	-
-	-		:			//	16	-
-	-		:			//	17	-
-	-		:			//	18	-
-	-		:			//	19	-
-	-		:			//	20	-
-	-		:			//	21	-
-	-		:			//	22	-
-	-		:			//	23	-
-	-		:			//	24	-
-	-		:			//	25	-
-	-		:			//	26	-
+	-	_doubt	:		Cart	//	1	-
+	-	_coverage	:		Automation	//	2	-
+	-	_lingual	:		Stall	//	3	-
+	-	_original	:		Paramount	//	4	-
+	-	_initial	:		Prologue	//	5	-
+	-	_characters	:		Heritage	//	6	-
+	-	_array	:		Attire	//	7	-
+	-	_electron	:		Informative	//	8	-
+	-	_vertex	:		Concentration	//	9	-
+	-	_coin	:		Contribution	//	10	-
+	-	_proxy	:		Substitute	//	11	-
+	-	_incident	:		Nominee	//	12	-
+	-	_web	:		Priority	//	13	-
+	-	_event	:		Knowledge	//	14	-
+	-	_gazette	:		Lyric	//	15	-
+	-	_inquiry	:		Surcharge	//	16	-
+	-	_least	:		Ingredient	//	17	-
+	-	_percentile	:		Prediction	//	18	-
+	-	_activity	:		Continuous	//	19	-
+	-	_vent	:		Guidance	//	20	-
+	-	_ribbon	:		Profit	//	21	-
+	-	_fossil	:		Immerse	//	22	-
+	-	_antique	:		Trick	//	23	-
+	-	_game	:		Bid	//	24	-
+	-	_discovery	:		Offshore	//	25	-
+	-	_pencil	:		Monument	//	26	-
