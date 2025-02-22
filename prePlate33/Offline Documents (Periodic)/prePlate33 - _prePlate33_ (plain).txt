@@ -1,0 +1,84 @@
+A#3	B#2	C#3	D#3	E#3	F#5	G#3	H#4	I#3	J#5	K#5	L#7	M#5	N#5	O#5	P#5	Q#4	R#4	S#5	T#3	U#5	V#2	W#7	X#1	Y#6	Z#6
+
+procedure	decide	initiate	create	process	execute	switch	verify	feature	seize	mandatory	extra	device	system	use	office	relate	make	wave	interest	band	reason	slim	bit	whole	group
+
+bean	disk	shade	produce	pass	pot	parse	plus	agile	break	hit	room	sack	lease	eject	check	share	mask	swipe	right	crowd	nine	skin	degree	block	unique
+profile	link	dial	play	art	twist	direct	puzzle	language	tile	counter	gender	mark	bubble	label	test	screen	item	grant	limit	arc	load	issue	age	standard	cover
+stone	flag	ideal	case	shell	effect	queue	pseudo	universe	search	match	application	border	layer	compose	project	mosaic	view	peer	dock	save	argument	note	the	feature	shelf
+track	scale	about	serve	order	method	stack	mean	transform	power	graph	statistic	lap	scope	chat	guess	capital	plant	session	tone	routine	repeat	frame	common	work	plain
+body	sign	rank	thing	zip	index	currency	equip	document	seal	material	before	term	weight	logic	line	utility	set	drive	command	trade	introduction	sector	craft	syllable	focus
+head	prompt	attach	address	space	slot	mod	shuffle	statement	brush	cascade	after	face	ratio	flow	complex	compress	fit	status	alignment	late	symbol	cross	at	tenure	comment
+bell	basic	sample	flat	style	gear	unit	node	transition	copy	circle	launch	wire	mesh	robot	avatar	banner	board	weather	via	fix	report	party	member	optional	category
+till	ball	account	instant	elect	tip	key	tariff	mixture	text	mail	synopsis	radio	core	matter	click	aerial	urgent	control	transparent	table	seminar	mount	is	chamber	record
+call	crate	hip	candle	act	afloat	shift	deal	booklet	number	script	compile	pattern	simple	bullet	content	fetch	domain	form	query	calendar	asterisk	action	from	design	spell
+rill	hand	margin	post	tag	crop	push	bunch	thesis	character	filter	community	sink	up	lens	correct	charge	quantity	mobile	highlight	finance	import	trace	where	paragraph	backward
+child	wheel	verse	pin	more	chip	pull	map	blog	agent	register	machine	paste	down	cell	certificates	change	word	exercise	assistance	section	export	fence	choice	super	forward
+parent	cap	crack	first	series	pool	flex	cabinet	parameter	brand	size	syntax	side	volume	large	manual	clone	transfer	pay	alternate	grade	quick	identity	quest	metric	discover
+
+deep	box	for	medium	liquid	start	orbit	course	guest	sound	point	origin	entry	invest	while	exit	log	type	task	data	stop	opposite	similar	print	clip	format
+step	safe	ring	spark	mass	base	port	open	tree	pipe	actor	pulse	poll	channel	span	raw	subject	any	menu	gesture	theory	grid	tape	press	bound	score
+hook	cost	figure	bright	loop	phase	straight	root	bag	frequency	schedule	future	trial	bracket	thick	level	cloud	pad	vault	template	bundle	tunnel	packet	different	time	powder
+learn	pack	roof	cone	directory	oval	write	drop	structure	metal	program	stream	loose	sync	combine	edit	branch	panel	fine	verbose	union	stick	pare	limited	date	canvas
+gain	part	slate	stand	bar	carry	read	tube	mono	belt	over	place	connect	ready	arrow	sheet	slab	cancel	bounce	progress	practical	cast	exist	colour	week	fiction
+move	quote	gap	back	leap	per	clause	book	code	plug	market	on	say	lay	dot	contrast	brick	build	close	instruct	idle	position	thread	collect	month	archive
+fill	bill	file	square	shrink	scheme	dash	watch	access	area	average	off	other	pitch	font	caution	home	house	balance	moment	fast	vacant	round	reply	year	render
+mix	meet	energy	double	unity	joint	calculate	trip	compound	toll	chain	appendix	axis	speed	freeze	touch	out	activate	range	specimen	aisle	less	clamp	live	zone	voice
+race	name	hash	bind	card	compare	memory	clock	tune	drag	tick	cable	clue	now	angle	smart	role	coordinate	circuit	current	last	custom	complete	all	slide	media
+
+new	source	full	period	random	serial	try	tool	micro	catch	next	this	else	either	equal	previous	continue	adapt	sequence	main	void	sort	count	length	trim	let
+negative	wide	bin	detail	amplify	operate	idea	under	prime	chart	admit	rhythm	resource	velvet	gel	window	nozzle	top	facade	high	dish	scan	division	multiple	cube	amount
+neutral	bridge	release	pro	these	separate	chance	claim	row	invoke	logo	variable	leak	concept	mirror	merge	wing	automatic	small	torque	lid	desire	integer	socket	badge	quality
+timber	yield	duty	rule	remote	capacity	fact	store	column	guide	pixel	bus	drum	engine	factory	lamp	gas	glass	lack	tower	respect	studio	letter	bias	zoom	pan
+expand	linear	pace	inter	fresh	journal	digit	surplus	lead	minimum	roll	solution	sticker	ignite	chimney	stamp	sit	host	paint	version	scroll	segment	diagnostic	shape	select	every
+cheque	mat	arbitrary	throb	dice	parallel	second	hall	route	maximum	publish	disable	mission	paper	special	synthesis	alloy	width	tie	passive	present	model	beat	plan	cue	needle
+strike	only	edition	diagram	follow	atom	minute	city	factor	dual	tweet	enable	steam	way	mock	database	bot	breadth	draw	active	past	spin	associate	rotate	icon	batch
+collapse	article	service	intra	divide	browse	hour	costume	coupon	element	trend	clutches	nursery	fire	target	policy	miss	anchor	sketch	cyber	curve	pop	auxiliary	skip	entity	dump
+teeth	finish	grill	front	partition	hertz	shred	electric	denote	bench	yard	annotate	team	cellular	rope	extinct	cut	law	comply	hub	cabin	rational	valid	same	fly	legal
+cache	aim	probe	pure	trunk	insulate	rail	sharp	asset	mode	distant	and	or	not	equate	force	semi	fan	advance	fibre	gate	find	registry	component	scratch	commit
+positive	bookmark	package	spot	cause	technology	fold	theme	vessel	end	acute	redo	construct	destruct	undo	history	arm	bottom	corner	low	result	which	uniform	ticket	orient	elapse
+
+fraction	exclude	include	admin	static	company	door	tablet	trance	insurance	rear	buy	duo	lock	sell	hide	silent	bed	capsule	satellite	opaque	throw	error	default	cron	function
+generic	hyphen	integrate	phrase	verb	handle	dry	install	noun	risk	duplicate	who	expense	adhoc	important	fluke	due	diameter	aperture	streak	grip	exempt	derive	versus	tempo	formula
+behaviour	regular	feasible	recent	cup	chalk	support	major	price	patch	difference	pallet	feed	thrust	wizard	hear	appliance	hazard	snap	hire	strap	nibble	half	season	add	stencil
+sense	contract	vertical	nut	mug	tail	above	tense	tax	protect	during	analysis	slash	concentrate	arcade	smell	organise	cold	hole	lend	novel	byte	bolt	dress	empty	constant
+establish	junction	between	estimate	product	jam	middle	edge	literal	basket	decade	desk	swap	temporary	deposit	mouth	commerce	zero	twin	crawl	navigator	mega	ink	rest	person	laboratory
+snooze	inverse	horizontal	loan	toast	shrine	below	wash	free	sacred	diverse	skill	decay	dilute	deduct	eye	residence	absolute	cycle	flash	vendor	kilo	alert	lag	senior	carrier
+vacuum	plot	forum	life	spread	stellar	traffic	minor	rent	partial	distance	rack	coil	facility	blend	vocal	property	enlist	slam	seed	license	binary	slip	none	fail	security
+dialect	court	option	valve	resume	boost	collaborate	fusion	persist	verge	diagonal	dessert	trust	description	ceramic	abundant	biometric	hybrid	dynamic	complicate	award	supplement	migrate	explore	critic	budget
+
+splash	true	float	spout	abstract	flux	delta	align	texture	exponent	object	success	bonus	suit	precede	star	jack	gradient	tint	alias	gamma	interface	distinct	string	false	jump
+differential	fountain	strict	axel	agree	improve	native	win	colon	farm	decisive	education	herb	sport	baggage	suffice	contact	show	topic	escape	opinion	accept	wild	rapid	territory	league
+contextual	reverse	digital	job	principle	field	objective	efficient	look	institute	probability	individual	payment	input	collar	fiscal	trench	firm	deliver	provide	toss	legit	soft	invert	preface	intelligence
+logical	encircle	soon	pole	determinant	lambda	insight	ultra	permanent	industry	mobility	amongst	income	output	beneficiary	economical	committee	dividend	sequel	aid	enquiry	behold	hard	approx	popular	brilliance
+physical	sphere	globe	rush	reset	information	negligible	kit	vacation	enterprise	personnel	pen	manifest	coat	road	equation	commodity	vacancy	metro	well	oscillation	closure	tour	cuboid	promotion	medal
+
+measure	explode	list	receive	graphic	put	direction	class	implement	prototype	assembly	amplifier	genesis	develop	transceiver	typography	deployment	communicate	attribute	transaction	get	buffer	transmit	dictionary	implode	swing
+envelope	bonsai	compatible	palette	emphasis	momentum	oral	neuron	easy	compass	affiliate	thin	mini	tiny	hatch	levitate	algorithm	feat	skeleton	ethic	hello	crystal	mortal	surpass	foreign	announce
+hierarchy	hint	capacitance	renew	requisite	timeline	simultaneous	surveillance	pump	ledger	punch	see	warm	join	talk	kick	episode	lift	atmosphere	conference	development	divert	family	capture	forth	consistent
+spontaneous	shield	threshold	couple	minus	mutual	even	habitation	left	essential	eight	symptom	meridian	imaginary	hut	sigma	percent	hang	entangle	fund	school	combo	syrup	stuff	devise	demonstrate
+according	throttle	purchase	travel	often	bucket	odd	consortium	genre	oven	analogue	patent	volatile	accumulate	dimension	express	bottle	manner	allocation	participant	country	enough	allow	goods	propose	represent
+available	picture	alphabet	secure	question	image	visual	photo	clinic	leaflet	idiom	magic	retina	brain	meal	lean	bulletin	study	lottery	conceal	official	solvent	public	candy	video	enhance
+vegetation	analyse	tabular	clear	answer	superior	compete	appear	conscious	preserve	collective	factorial	vulnerable	coherence	metaphor	strategy	caption	awake	breeze	concurrent	municipal	prior	clean	premier	glossary	molecule
+stitch	friction	regulatory	gather	schema	castle	cash	discrete	catalogue	clash	definite	flip	condition	ground	intent	accent	inject	recurring	motion	fashion	site	dialogue	ping	especial	terrain	campaign
+flight	guard	workshop	wise	assure	enclose	trophy	network	inventory	expert	gradual	illuminate	variance	eliminate	cryptography	radiant	formal	social	pendulum	transmission	mention	offer	evaluate	polish	promise	nucleus
+entertain	apply	remittance	artefact	matrix	author	century	occurrence	cluster	imprint	convex	trail	principal	directive	tease	concave	surface	stump	indication	approve	portal	purpose	title	transport	bank	universal
+sprinkle	external	maintenance	personal	suggestion	corridor	daily	ambition	medic	basis	tenant	fest	revenue	department	torch	dependent	twig	spirit	imperial	consider	intercept	tender	mortgage	preference	internal	fragile
+
+refill	response	general	wish	authentication	debit	planet	hibernate	namespace	methodology	library	accessory	miscellaneous	repository	pastel	server	investment	framework	display	master	credit	authorisation	quit	kernel	platform	problem
+introduce	addition	message	manufacture	console	decrease	employ	terminal	criteria	instance	macro	optimise	tank	light	pillar	incentive	entitlement	eligibility	monitor	venue	increase	quotient	incandescent	presence	secret	rain
+grocery	numeric	grain	mathematics	invite	rhombus	mechanic	mountain	hue	immediate	audit	invoice	chief	comprise	old	corporate	privilege	vibrant	stationary	regulate	triangle	young	resonance	multiplex	stage	nutrition
+
+doubt		coverage	lingual		original	initial		characters	array		electron	vertex		coin		proxy		incident	web			event		gazette		inquiry		least		percentile	activity	vent		ribbon		fossil		antique		game		discovery	pencil		
+
+quant		
+
+
+
+
+
+
+
+
+
+
+invent		
