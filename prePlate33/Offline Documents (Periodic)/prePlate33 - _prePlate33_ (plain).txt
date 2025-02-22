@@ -70,15 +70,15 @@ grocery	numeric	grain	mathematics	invite	rhombus	mechanic	mountain	hue	immediate
 
 doubt		coverage	lingual		original	initial		characters	array		electron	vertex		coin		proxy		incident	web			event		gazette		inquiry		least		percentile	activity	vent		ribbon		fossil		antique		game		discovery	pencil		
 
-quant		deploy		specific																																																													wear		ask			summary
-storage		many																																																																				seek		optimum
-			accuracy																																																																						
+quant		deploy		specific	accuracy																																																										wear		ask			summary
+storage		many																																																											sustain		stable					seek		optimum
+																																																																											
 
 
 
 
 
 
-			rely																																																																							
-analytic	gravity																																																																				define		promote
-invent		occupy		justify																																																														mart		quiz		ambient
+																																																																											
+analytic	gravity																																																											substitute	attract					define		promote
+invent		occupy		justify		rely																																																											mart		quiz		ambient
