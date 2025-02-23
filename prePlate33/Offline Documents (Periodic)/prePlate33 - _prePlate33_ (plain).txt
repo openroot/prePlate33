@@ -70,7 +70,7 @@ grocery	numeric	grain	mathematics	invite	rhombus	mechanic	mountain	hue	immediate
 
 doubt		coverage	lingual		original	initial		characters	array		electron	vertex		coin		proxy		incident	web			event		gazette		inquiry		least		percentile	activity	vent		ribbon		fossil		antique		game		discovery	pencil		
 
-quant		deploy		specific	accuracy	slice																																																								wear		ask			summary
+quant		deploy		specific	accuracy	slice																																															curtain								wear		ask			summary
 storage		many								sleek																																																		sustain		stable					seek		optimum
 																																																																											
 
@@ -81,4 +81,4 @@ storage		many								sleek																																																		sust
 
 																																																																											
 analytic	gravity								strip																																																		substitute	attract					define		promote
-invent		occupy		justify		rely		spice																																																								mart		quiz		ambient
+invent		occupy		justify		rely		spice																																															carpet								mart		quiz		ambient
