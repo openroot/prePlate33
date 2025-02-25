@@ -70,7 +70,7 @@ grocery	numeric	grain	mathematics	invite	rhombus	mechanic	mountain	hue	immediate
 
 doubt		coverage	lingual		original	initial		characters	array		electron	vertex		coin		proxy		incident	web			event		gazette		inquiry		least		percentile	activity	vent		ribbon		fossil		antique		game		discovery	pencil		
 
-quant		deploy		specific	accuracy	slice		context		chrome																																						fluid		curtain					fun			wear		ask			summary
+quant		deploy		specific	accuracy	slice		context		chrome																																						fluid		curtain		hat			fun			wear		ask			summary
 storage		many								sleek					lodge																																						gadget					sustain		stable		dorm		seek		optimum
 wall											slope																																												supply					height					tent		hold		tactic
 
@@ -81,5 +81,5 @@ wall											slope																																												supply					heigh
 
 ship											swift																																												demand					growth					food		bear		bring
 analytic	gravity								strip					practice																																					fuel					substitute	attract		cart		define		promote
-invent		occupy		justify		rely		spice		signature	reverb																																						swirl		carpet					technique	mart		quiz		ambient
+invent		occupy		justify		rely		spice		signature	reverb																																						swirl		carpet		clutch		technique	mart		quiz		ambient
 
