@@ -68,16 +68,16 @@ refill	response	general	wish	authentication	debit	planet	hibernate	namespace	met
 introduce	addition	message	manufacture	console	decrease	employ	terminal	criteria	instance	macro	optimise	tank	light	pillar	incentive	entitlement	eligibility	monitor	venue	increase	quotient	incandescent	presence	secret	rain
 grocery	numeric	grain	mathematics	invite	rhombus	mechanic	mountain	hue	immediate	audit	invoice	chief	comprise	old	corporate	privilege	vibrant	stationary	regulate	triangle	young	resonance	multiplex	stage	nutrition
 
-doubt		coverage	lingual		original	initial		characters	array		electron	vertex		coin		proxy		incident	web			event		gazette		inquiry		least		percentile	activity	vent		ribbon		fossil		antique		game		discovery	pencil		
-quant		deploy		specific	accuracy	slice		context		chrome		prism																																			fluid		curtain		hat			fun			wear		ask			summary
-storage		many		toy			authority	sleek		devote		lodge																																						gadget		pair		sustain		stable		dorm		seek		optimum
-wall		scrutiny	automate	mystery		slope		portfolio	station																																						supply		dark		height		ago			tent		hold		tactic
-treasure																																																																									survey
-experience																																																																									state
-local																																																																										beta
-precise																																																																										theta
-experiment																																																																									translate
-modern																																																																										miniature
-ship		economy		manage		variety		swift		sculpture	grace																																						demand		strong		growth		shot		food		bear		bring
-analytic	gravity		exhibit		ally		strip		single		practice																																					fuel		animate		substitute	attract		cart		define		promote
-invent		occupy		justify		rely		spice		signature	reverb		funnel																																			swirl		carpet		clutch		technique	mart		quiz		ambient
+doubt		coverage	lingual		original	initial		characters	array		electron	vertex		coin		proxy		incident	web			event		gazette		inquiry		least		percentile		activity	vent		ribbon		fossil		antique		game		discovery	pencil		
+quant		deploy		specific	accuracy	slice		context		chrome		prism		artificial	scene																				dynamo		agreement		elevate		fluid		curtain		hat			fun			wear		ask			summary
+storage		many		toy			authority	sleek		devote		lodge								vend																				confirm		assignment		evolve		gadget		pair		sustain		stable		dorm		seek		optimum
+wall		scrutiny	automate	mystery		slope		portfolio	station																													former		establishment	proceed		supply		dark		height		ago			tent		hold		tactic
+treasure																																																																										survey
+experience																																																																										state
+local																																																																											beta
+precise																																																																											theta
+experiment																																																																										translate
+modern																																																																											miniature
+ship		economy		manage		variety		swift		sculpture	grace		deck																										consign		representation	eclipse		demand		strong		growth		shot		food		bear		bring
+analytic	gravity		exhibit		ally		strip		single		practice							snip																				reserve		incorporate		stretch		fuel		animate		substitute	attract		cart		define		promote
+invent		occupy		justify		rely		spice		signature	reverb		funnel		translucent	profit																				chapter		distribute		cumulate	swirl		carpet		clutch		technique	mart		quiz		ambient
